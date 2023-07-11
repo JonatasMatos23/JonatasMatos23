@@ -1,12 +1,10 @@
-<div>
-   <h2>👋 Olá, eu sou o Jonatas Matos </h2>
-</div>
+<div style="display: flex">
+   <img align="center" height="200" width="200" src="https://github.com/JonatasMatos23/JonatasMatos23/assets/139053955/efd419b7-5d42-4a89-a8b1-2d99c311ad3c"/><h2>Olá, eu sou o Jonatas Matos </h2>
+  
+</div> 
+
 <br>
 
-  - 🔭 Desejo trabalhar com Frontend;
-  - 🌱 Atualmente estou estudando JavaScript;
-  - 😄 Pronouns: ele/dele
-    
 <br>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,7 +18,11 @@
 ##
 
 <div style="vertical-align : baseline ; align-items : center  ">
-<img  align="center" alt="Jhony-JS" height="30" width="40" src="">  
+   <img  align="center" alt="Jhony-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
+   <img  align="center" alt="Jhony-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+   <img  align="center" alt="Jhony-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+   <img  align="center" alt="Jhony-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+   <img  align="center" alt="Jhony-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
 </div>
 
 ##
