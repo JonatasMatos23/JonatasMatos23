@@ -1,17 +1,15 @@
-<div style="display: flex">
-   <img align="center" height="200" width="200" src="https://github.com/JonatasMatos23/JonatasMatos23/assets/139053955/efd419b7-5d42-4a89-a8b1-2d99c311ad3c"/><h2>Olá, eu sou o Jonatas Matos </h2>
-  
-</div> 
+<p  align= "center">
+   <img height="300" width="1000" src="https://github.com/JonatasMatos23/JonatasMatos23/assets/139053955/ceeb52f3-6261-4306-bd5c-02087ad7d774"
+ />
+</p>
 
-<br>
-
-<br>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JonatasMatos23&show_icons=true&theme=dracula"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=JonatasMatos23&show_icons=true&theme=dracula"/>
 </a>
+   
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasMatos23&layout=compact&langs_count=8&card_width=320$&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasMatos23&layout=compact&langs_count=8&card_width=320$&theme=dracula" />
 </a>
 </div>
 
