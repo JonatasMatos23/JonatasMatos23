@@ -1,6 +1,5 @@
 <p  align= "center">
-   <img height="300" width="1000" src="https://github.com/JonatasMatos23/JonatasMatos23/assets/139053955/ceeb52f3-6261-4306-bd5c-02087ad7d774"
- />
+
 </p>
 
 <div>
@@ -30,6 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonatasMatos23&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonatasMatos23&repo=convoychat" />
 </a>
 </div>
